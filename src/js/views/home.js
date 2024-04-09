@@ -7,7 +7,6 @@ export const Home = () => {
       <div className="heading-border p-4" style={{ marginTop: "75px" }}>
         <h1 className="text-white">
         Starwars blog reading list
-          <i class="fab fa-jedi-order" style={{ marginLeft: "15px" }}></i>
         </h1>
       </div>
     </div>

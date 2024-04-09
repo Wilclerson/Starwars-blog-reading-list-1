@@ -21,8 +21,7 @@ export const Navbar = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <a className="navbar-brand" href="#">
-            Star Wars Databank
-            <i class="fab fa-jedi-order" style={{ marginLeft: "10px" }}></i>
+            Click the left Menu to search through
           </a>
           <div
             className="offcanvas offcanvas-start bg-dark"
@@ -35,7 +34,7 @@ export const Navbar = () => {
                 className="offcanvas-title text-white"
                 id="offcanvasDarkNavbarLabel"
               >
-                Star Wars Databank
+                Search through the Star Wars Blog Reading List
                 <i class="fab fa-jedi-order" style={{ marginLeft: "10px" }}></i>
               </h5>
               <button
